@@ -1,0 +1,1 @@
+valeurs = {"Judy": 50, "Kiki": 1000, "Obligatif":10, "Cacahuete":5, "Sonia": 140}
